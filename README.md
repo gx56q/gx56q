@@ -12,3 +12,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gx56q&show_icons=true&locale=en" alt="gx56q" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gx56q&" alt="gx56q" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=gx56q&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
