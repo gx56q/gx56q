@@ -13,5 +13,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gx56q&" alt="gx56q" /></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gx56q&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
